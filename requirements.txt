@@ -1,0 +1,11 @@
+langchain==0.1.17
+langchain_community==0.0.36
+langchain_google_vertexai==0.1.0
+tiktoken==0.6.0
+chromadb==0.5.0
+langgraph==0.0.40
+tavily-python==0.3.3
+python-dotenv==1.0.1
+google-cloud-aiplatform>=1.38.0
+cohere-python>=3.0.0  # Adding cohere package, adjust version as needed
+langgraph==0.0.40
